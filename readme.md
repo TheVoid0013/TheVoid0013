@@ -36,7 +36,31 @@ Currently working on multi-tenant banking systems and real-time financial applic
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVoid0013&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<!-- Primary option -->
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVoid0013&layout=compact&theme=radical&hide_border=true&langs_count=8)-->
+
+<!-- Alternative 1: Different deployment -->
+<!-- ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheVoid0013&layout=compact&theme=radical&hide_border=true&langs_count=8) -->
+
+<!-- Alternative 2: Different layout -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVoid0013&theme=radical&hide_border=true&langs_count=10&layout=donut)
+
+<!-- Alternative 3: GitHub Language Stats -->
+<!-- [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheVoid0013&theme=radical)](https://github.com/TheVoid0013) -->
+
+<!-- Alternative 4: Most Used Languages -->
+<!-- [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheVoid0013&theme=radical)](https://github.com/TheVoid0013) -->
+
+## 💻 Tech I Work With
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔥 GitHub Streak
 
