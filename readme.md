@@ -1,57 +1,44 @@
-# 👋 Hi there, I'm a Full Stack Developer
+# Hearken, I am a Full Stack Developer
 
-## 🚀 About Me
+## Of My Deeds
 
-Results-driven Full Stack Developer specializing in **.NET Core** and **React**, with hands-on experience in the finance technology sector. I build scalable, high-performance applications with a focus on security, real-time communication, and exceptional user experiences.
+A Full Stack Developer forged in **.NET Core** and **React**, tested in the crucible of finance technology. I raise applications that endure — scalable, swift, and fortified — with steel devoted to security, real-time communion, and the glory of the user's experience.
 
-Currently working on multi-tenant banking systems and real-time financial applications, optimizing SQL performance and implementing robust state management solutions.
+Now I labor upon multi-tenant banking citadels and real-time financial dominions, sharpening SQL to a killing edge and commanding state with discipline befitting a king.
 
-## 💼 What I Do
+## What I Command
 
-- 🏗️ Architect scalable .NET Core applications with clean architecture patterns
-- ⚡ Build real-time applications using WebSockets and TypeScript
-- 🎨 Create responsive, modern UIs with React and Tailwind CSS
-- 🗄️ Optimize database performance for high-volume financial operations
-- 🔐 Implement secure multi-tenant systems with RBAC
+- I architect scalable .NET Core applications upon the foundations of clean architecture
+- I raise real-time applications wrought with WebSockets and TypeScript
+- I fashion responsive, modern interfaces with React and Tailwind CSS
+- I bend database performance to my will for high-volume financial campaigns
+- I secure multi-tenant realms with RBAC, that none unworthy may pass
 
-## 🛠️ Tech Stack
+## My Arsenal
 
-**Backend**
+**The Backend Legion**
 - C# • .NET Core • ASP.NET Core • Entity Framework Core
 - REST APIs • Repository Pattern • Clean Architecture
 - JWT • ASP.NET Core Identity
 
-**Frontend**
+**The Frontend Vanguard**
 - React • TypeScript • Blazor
 - Zustand • TanStack Query • React Hook Form
 - Tailwind CSS • Framer Motion • WebSockets
 
-**Database & Tools**
+**Database & Instruments of War**
 - MS SQL Server • Query Optimization • Stored Procedures
 - Git • Docker • Jira • Agile/Scrum
 
-## 📊 GitHub Stats
+## Chronicle of Conquests
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheVoid0013&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-## 💻 Most Used Languages
+## Tongues I Speak Most
 
-<!-- Primary option -->
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVoid0013&layout=compact&theme=radical&hide_border=true&langs_count=8)-->
-
-<!-- Alternative 1: Different deployment -->
-<!-- ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheVoid0013&layout=compact&theme=radical&hide_border=true&langs_count=8) -->
-
-<!-- Alternative 2: Different layout -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVoid0013&theme=radical&hide_border=true&langs_count=10&layout=donut)
 
-<!-- Alternative 3: GitHub Language Stats -->
-<!-- [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheVoid0013&theme=radical)](https://github.com/TheVoid0013) -->
-
-<!-- Alternative 4: Most Used Languages -->
-<!-- [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheVoid0013&theme=radical)](https://github.com/TheVoid0013) -->
-
-## 💻 Tech I Work With
+## Weapons of My Trade
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -62,11 +49,11 @@ Currently working on multi-tenant banking systems and real-time financial applic
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔥 GitHub Streak
+## The Unbroken Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheVoid0013&theme=radical&hide_border=true)
 
-## 📫 Connect With Me
+## Send Word to My Court
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samyamsubedi.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://samyamsubedi.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-samyam081%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:samyam081@gmail.com)
@@ -74,4 +61,4 @@ Currently working on multi-tenant banking systems and real-time financial applic
 
 ---
 
-⭐️ From [TheVoid0013](https://github.com/TheVoid0013)
+Thus speaks [TheVoid0013](https://github.com/TheVoid0013)
