@@ -1,85 +1,136 @@
-# Hearken, I am a Full Stack Developer
+# Hearken, I am a Full Stack Developer ⚔️
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thevoid0013&label=Profile%20views&color=0e75b6&style=flat" alt="thevoid0013" />
-</p>
+> A developer who builds scalable systems, battles complex backend problems, and occasionally emerges from SQL query optimization victorious.
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thevoid0013&theme=radical&no-frame=true&margin-w=15" alt="thevoid0013" />
-  </a>
-</p>
+## ⚔️ Of My Deeds
 
-## Of My Deeds
+I am a **Full Stack Developer** specializing in building scalable and maintainable applications with **.NET** and modern web technologies.
 
-A Full Stack Developer forged in **.NET Core** and **React**, tested in the crucible of finance technology. I raise applications that endure — scalable, swift, and fortified — with steel devoted to security, real-time communion, and the glory of the user's experience.
+My work revolves around:
 
-Now I labor upon multi-tenant banking citadels and real-time financial dominions, sharpening SQL to a killing edge and commanding state with discipline befitting a king.
+* 🏗️ Designing clean and scalable backend architectures
+* 🔐 Building secure authentication and authorization systems
+* 🏦 Working with multi-tenant and finance-related applications
+* ⚡ Creating real-time features with WebSockets
+* 🗄️ Optimizing databases and complex SQL queries
+* 🐳 Containerizing applications with Docker
 
-## What I Command
-
-- I architect scalable .NET Core applications upon the foundations of clean architecture
-- I raise real-time applications wrought with WebSockets and TypeScript
-- I fashion responsive, modern interfaces with React and Tailwind CSS
-- I bend database performance to my will for high-volume financial campaigns
-- I secure multi-tenant realms with RBAC, that none unworthy may pass
-
-## My Arsenal
-
-### The Backend Legion
-
-- C# • .NET Core • ASP.NET Core • Entity Framework Core
-- REST APIs • Repository Pattern • Clean Architecture
-- JWT • ASP.NET Core Identity
-
-### The Frontend Vanguard
-
-- React • TypeScript • Blazor
-- Zustand • TanStack Query • React Hook Form
-- Tailwind CSS • Framer Motion • WebSockets
-
-### Database & Instruments of War
-
-- MS SQL Server • Query Optimization • Stored Procedures
-- Git • Docker • Jira • Agile/Scrum
-
-## Chronicle of Conquests
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=thevoid0013&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="thevoid0013" />
-</p>
-
-## Tongues I Speak Most
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thevoid0013&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="thevoid0013" />
-</p>
-
-## Weapons of My Trade
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## The Unbroken Streak
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevoid0013&theme=radical&hide_border=true" alt="thevoid0013" />
-</p>
-
-## Send Word to My Court
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-samyamsubedi.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://samyamsubedi.netlify.app/)
-
-[![Email](https://img.shields.io/badge/Email-samyam081%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:samyam081@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samyamsubedi/)
+Currently, I am focused on building better systems and becoming a stronger backend engineer.
 
 ---
 
-Thus speaks [TheVoid0013](https://github.com/TheVoid0013)
+## 🛡️ What I Command
+
+### ⚙️ Backend
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge\&logo=blazor\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### 🗄️ Database
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### 🛠️ Instruments of War
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+
+---
+
+## 🏰 My Arsenal
+
+### Backend
+
+* C#
+* .NET
+* ASP.NET Core
+* Entity Framework Core
+* REST APIs
+* Clean Architecture
+* JWT Authentication
+* ASP.NET Core Identity
+* Repository Pattern
+* Middleware
+* Rate Limiting
+
+### Frontend
+
+* React
+* TypeScript
+* JavaScript
+* Blazor
+* Zustand
+* TanStack Query
+* React Hook Form
+* Tailwind CSS
+* WebSockets
+
+### Database
+
+* Microsoft SQL Server
+* Query Optimization
+* Stored Procedures
+* Database Design
+* Redis
+
+---
+
+## 📜 Currently Exploring
+
+* 🐳 Advanced Docker workflows
+* ⚡ Redis caching and distributed systems
+* ☁️ Cloud architecture
+* 🏗️ Advanced .NET backend architecture
+* 🔍 Building scalable financial systems
+
+---
+
+## 🏆 Chronicle of Conquests
+
+I prefer letting my work speak for itself.
+
+Explore my repositories to find projects involving:
+
+* 🏦 Financial and banking systems
+* 🔐 Authentication and authorization
+* 🏗️ Clean Architecture
+* 🌐 Web APIs
+* ⚡ Real-time applications
+* 🐳 Dockerized services
+* 🗄️ Database-heavy applications
+
+📌 **My best projects are pinned below.**
+
+---
+
+## 📫 Send Word to My Court
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](https://samyamsubedi.netlify.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samyamsubedi/)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samyam081@gmail.com)
+
+---
+
+<p align="center">
+  <i>Build. Break. Debug. Repeat.</i>
+</p>
+
+<p align="center">
+  Thus speaks <a href="https://github.com/TheVoid0013">TheVoid0013</a> ⚔️
+</p>
