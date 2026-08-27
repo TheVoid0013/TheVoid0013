@@ -113,7 +113,9 @@ Explore my repositories to find projects involving:
 * 🐳 Dockerized services
 * 🗄️ Database-heavy applications
 
-📌 **My best projects are pinned below.**
+## 🔥 The Unbroken Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheVoid0013&theme=radical&hide_border=true)
 
 ---
 
