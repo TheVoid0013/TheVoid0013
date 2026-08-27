@@ -1,5 +1,15 @@
 # Hearken, I am a Full Stack Developer
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thevoid0013&label=Profile%20views&color=0e75b6&style=flat" alt="thevoid0013" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thevoid0013&theme=radical&no-frame=true&margin-w=15" alt="thevoid0013" />
+  </a>
+</p>
+
 ## Of My Deeds
 
 A Full Stack Developer forged in **.NET Core** and **React**, tested in the crucible of finance technology. I raise applications that endure — scalable, swift, and fortified — with steel devoted to security, real-time communion, and the glory of the user's experience.
@@ -16,27 +26,34 @@ Now I labor upon multi-tenant banking citadels and real-time financial dominions
 
 ## My Arsenal
 
-**The Backend Legion**
+### The Backend Legion
+
 - C# • .NET Core • ASP.NET Core • Entity Framework Core
 - REST APIs • Repository Pattern • Clean Architecture
 - JWT • ASP.NET Core Identity
 
-**The Frontend Vanguard**
+### The Frontend Vanguard
+
 - React • TypeScript • Blazor
 - Zustand • TanStack Query • React Hook Form
 - Tailwind CSS • Framer Motion • WebSockets
 
-**Database & Instruments of War**
+### Database & Instruments of War
+
 - MS SQL Server • Query Optimization • Stored Procedures
 - Git • Docker • Jira • Agile/Scrum
 
 ## Chronicle of Conquests
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheVoid0013&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=thevoid0013&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="thevoid0013" />
+</p>
 
 ## Tongues I Speak Most
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVoid0013&theme=radical&hide_border=true&langs_count=10&layout=donut)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thevoid0013&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="thevoid0013" />
+</p>
 
 ## Weapons of My Trade
 
@@ -51,12 +68,16 @@ Now I labor upon multi-tenant banking citadels and real-time financial dominions
 
 ## The Unbroken Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheVoid0013&theme=radical&hide_border=true)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thevoid0013&theme=radical&hide_border=true" alt="thevoid0013" />
+</p>
 
 ## Send Word to My Court
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samyamsubedi.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://samyamsubedi.netlify.app/)
+
 [![Email](https://img.shields.io/badge/Email-samyam081%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:samyam081@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samyamsubedi/)
 
 ---
