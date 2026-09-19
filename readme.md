@@ -119,6 +119,12 @@ Explore my repositories to find projects involving:
 
 ---
 
+## 🔥 My words
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=TheVoid0013&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 ## 📫 Send Word to My Court
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](https://samyamsubedi.netlify.app/)
