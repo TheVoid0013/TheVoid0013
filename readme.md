@@ -118,6 +118,11 @@ Explore my repositories to find projects involving:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheVoid0013&theme=radical&hide_border=true)
 
 ---
+## 🔥 What matters is our plan
+
+![](https://github-readme-stats.vercel.app/api?username=TheVoid0013&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+---
 
 ## 🔥 My words
 
