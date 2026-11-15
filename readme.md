@@ -56,6 +56,33 @@ A .NET solution that ingests U.S. Treasury OFAC sanctions data and serves it thr
 
 ---
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+
+
+
+
+## 🔥 The Unbroken Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheVoid0013&theme=radical&hide_border=true)
+
+</td>
+<td align="center" width="50%">
+
+## 🔥 What matters is our plan
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=TheVoid0013&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+</td>
+</tr>
+</table>
+
+
+
 ## Get in Touch
 
 - Portfolio: [samyamsubedi.netlify.app](https://samyamsubedi.netlify.app)
