@@ -81,7 +81,13 @@ A .NET solution that ingests U.S. Treasury OFAC sanctions data and serves it thr
 </tr>
 </table>
 
+## My Fish
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="TheVoid0013's koi">
+</p>
+
+---
 
 ## Get in Touch
 
