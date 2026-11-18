@@ -1,96 +1,121 @@
-# Samyam Subedi
+<div align="center">
 
-**.NET Developer** · Kathmandu, Nepal
+<table width="100%">
+ <tr>
+ <td width="64%" valign="middle">
+ <p><sub>RECRUITER SIGNAL BRIEF · thevoid0013</sub></p>
+ <h1>Samyam Subedi</h1>
+ <h2>Frontend or full-stack engineer</h2>
+ <p>.NET developer building secure, multi-tenant fintech &amp; compliance systems. C# · ASP.NET Core · SQL Server · React. Kathmandu, Nepal.</p>
+ <p><strong>● Building and sharing work in public</strong></p>
 
-I build secure, maintainable backend systems for financial and compliance software, mainly with C#, ASP.NET Core, and SQL Server. I have 2+ years of professional experience on enterprise fintech products, including multi-tenant platforms, third-party integrations, and high-volume data workloads.
+<p><a href="https://github.com/thevoid0013">GitHub</a> &nbsp;·&nbsp; <a href="https://samyamsubedi.netlify.app">Website</a></p>
+ </td>
+ <td width="36%" valign="middle" align="center">
+ <img src="https://avatars.githubusercontent.com/u/253913071?u=ca8505b5a1becdcb766f31a9ebda921bcbe5a590&v=… width="180" alt="Samyam Subedi GitHub avatar" />
+ </td>
+ </tr>
+ </table>
+ </div>
 
-> Most of my professional work is proprietary and lives in private repositories. This profile highlights personal projects and the tools and practices I work with.
+<h2>What teams can evaluate quickly</h2>
 
----
+<table width="100%">
+ <tr>
+ <td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · C# · HTML · CSS</p></td>
+ <td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 3 stars</p></td>
+ <td width="33%" valign="top"><h3>Momentum</h3><p>634 contributions · 159 active days</p></td>
+ </tr>
+ </table>
 
-## What I Work On
+<p><sub>.NET developer building secure, multi-tenant fintech &amp; compliance systems. C# · ASP.NET Core · SQL Server · React. Kathmandu, Nepal.</sub></p>
 
-- **Backend architecture:** Clean Architecture, Repository and Unit-of-Work patterns, and CQRS-style request handling with MediatR
-- **Multi-tenant systems:** tenant data isolation, hierarchical access control, and role-based authorization
-- **APIs:** versioned, idempotent REST APIs documented with Swagger/OpenAPI
-- **Security:** JWT, ASP.NET Identity, RBAC, and encryption of sensitive data
-- **Databases:** SQL Server performance tuning, indexing strategy, stored procedures, bulk operations, and full-text search
-- **Data pipelines:** ingestion, parsing, and batched upserts of large datasets
+<h2>Proof at a glance</h2>
 
----
+<table width="100%">
+ <tr>
+ <td width="25%" align="center"><strong>10</strong><br /><sub>Repositories</sub></td>
+ <td width="25%" align="center"><strong>3</strong><br /><sub>Stars</sub></td>
+ <td width="25%" align="center"><strong>634</strong><br /><sub>Contributions</sub></td>
+ <td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
+ </tr>
+ </table>
 
-## Featured Project
+<p align="center">
+ <picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=thevoid0013&theme=github-dark&avatar=https%3A%2… />
+ <img src="https://www.gitskins.com/api/section/stats?username=thevoid0013&theme=github-dark&avatar=https%3A%2… width="100%" alt="Samyam Subedi GitHub proof metrics" />
+ </picture>
+ </p>
 
-### [DataImport](https://github.com/TheVoid0013/DataImport): OFAC SDN Sanctions Platform
+<h2>Selected work</h2>
 
-A .NET solution that ingests U.S. Treasury OFAC sanctions data and serves it through a REST API.
+<table width="100%">
+ <tr>
+ <td width="58%" valign="top">
+ <picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=thevoid0013&theme=github-dark&avatar=https%3… />
+ <img src="https://www.gitskins.com/api/section/projects?username=thevoid0013&theme=github-dark&avatar=https%3… width="100%" alt="Samyam Subedi selected projects" />
+ </picture>
+ </td>
+ <td width="42%" valign="top">
+ <h3><a href="https://github.com/TheVoid0013/DataImport">DataImport</a></h3>
+ <p>A .NET solution: console app downloads/parses/upserts OFAC SDN data into SQL Server (MediatR, Serilog, caching), plus a Web API with paged endpoints a</p>
+ <p><sub>C# · ⭐ 1 · 🍴 1</sub></p>
+ <p><a href="https://github.com/TheVoid0013/DataImport">Read the repository →</a></p>
+ </td>
+ </tr>
+ </table>
 
-- Console ETL job with a MediatR pipeline (download, parse, save) that records every run in an audit log
-- Streams large XML files and uses day-partitioned caching to avoid redundant downloads
-- Batched upserts with EF Core (`AsNoTracking`, periodic `ChangeTracker.Clear()`) to keep memory and change-tracking cost flat
-- ASP.NET Core Web API with paged endpoints and Swagger documentation
-- BenchmarkDotNet project comparing parsing and save strategies
+<table width="100%">
+ <tr>
+ <td width="33%" valign="top"><h3><a href="https://github.com/TheVoid0013/MiniLedger">MiniLedger</a></h3><p>MiniLedger is a .NET 10 payment ledger API (accounts, deposits, withdrawals, transfers, transaction history), built with DDD, CQRS-style mediator han</p><p><sub>C# · ⭐ 1</sub></p></td>
+ <td width="33%" valign="top"><h3><a href="https://github.com/TheVoid0013/blooming-flower">blooming-flower</a></h3><p>A glowing night-time flower that blooms and sways, built with CSS animations only. JavaScript make this change colors.</p><p><sub>SCSS · ⭐ 1</sub></p></td>
+ <td width="33%" valign="top"><h3><a href="https://github.com/TheVoid0013/MonteCarloSimulator">MonteCarloSimulator</a></h3><p>A server-rendered ASP.NET Core Razor Pages web application that uses PLINQ-based Monte Carlo simulations to demonstrate and analyze CPU-bound parallel</p><p><sub>C# · ⭐ 0</sub></p></td>
+ </tr>
+ </table>
 
-**Stack:** C#, .NET, EF Core, SQL Server, MediatR, Serilog, BenchmarkDotNet
+<h2>Technical toolkit</h2>
 
----
+<p align="center">
+ <picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=thevoid0013&theme=github-dark&avatar=https%3A%2… />
+ <img src="https://www.gitskins.com/api/section/stack?username=thevoid0013&theme=github-dark&avatar=https%3A%2… width="100%" alt="Samyam Subedi technology stack" />
+ </picture>
+ </p>
 
-## Tech Stack
+<table width="100%">
+ <tr>
+ <td width="20%" align="center"><strong>C#</strong><br /><sub>58% of public code</sub></td>
+ <td width="20%" align="center"><strong>HTML</strong><br /><sub>15% of public code</sub></td>
+ <td width="20%" align="center"><strong>CSS</strong><br /><sub>13% of public code</sub></td>
+ <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>9% of public code</sub></td>
+ <td width="20%" align="center"><strong>SCSS</strong><br /><sub>5% of public code</sub></td>
+ </tr>
+ </table>
 
-| Area | Technologies |
-| --- | --- |
-| **Backend** | C#, .NET 8+, ASP.NET Core, ASP.NET MVC, Entity Framework Core, MediatR |
-| **Frontend** | React, TypeScript, JavaScript, jQuery/AJAX, HTML/CSS, Bootstrap, Tailwind CSS |
-| **Databases** | SQL Server, MySQL |
-| **Security** | JWT, OAuth, SSO, ASP.NET Identity, RBAC, AES/RSA |
-| **Tools and Practices** | Git, GitLab, Docker, Azure, CI/CD, xUnit, Moq, Postman, Swagger/OpenAPI, Jira, Agile/Scrum |
+<h2>Consistency signal</h2>
 
----
-
-## Currently Learning
-
-- Advanced Docker workflows
-- Redis caching and distributed systems
-- Cloud architecture on Azure
-- Building scalable financial systems
-
----
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-
-
-
-
-## 🔥 The Unbroken Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheVoid0013&theme=radical&hide_border=true)
-
-</td>
-<td align="center" width="50%">
-
-## 🔥 What matters is our plan
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=TheVoid0013&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-</td>
-</tr>
-</table>
+<p align="center">
+ <picture>
+ <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=thevoid0013&theme=github-dark&avatar=https%3A… />
+ <img src="https://www.gitskins.com/api/section/heatmap?username=thevoid0013&theme=github-dark&avatar=https%3A… width="100%" alt="Samyam Subedi contribution activity" />
+ </picture>
+ </p>
 
 ## My Fish
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="TheVoid0013's koi">
-</p>
+ <img src="koi/koi.gif" width="256" alt="TheVoid0013's koi">
+ </p>
 
 ---
 
-## Get in Touch
+<hr />
 
-- Portfolio: [samyamsubedi.netlify.app](https://samyamsubedi.netlify.app)
-- LinkedIn: [linkedin.com/in/samyamsubedi](https://www.linkedin.com/in/samyamsubedi/)
-- Email: [samyam081@gmail.com](mailto:samyam081@gmail.com)
+<table width="100%">
+ <tr>
+ <td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+ <td width="38%" valign="middle" align="right"><a href="https://github.com/thevoid0013">GitHub</a><br /><a href="https://samyamsubedi.netlify.app">Website</a></td>
+ </tr>
+ </table>
